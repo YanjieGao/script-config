@@ -1,0 +1,31 @@
+#a::
+run, "E:\baiduyun\BaiduYunGuanjia\BaiduYunGuanjia.exe"
+return
+
+#2::
+run, http://www.ifeng.com
+return
+
+#z::
+run, https://github.com/
+return
+
+#w::
+run, "E:\spark\mobaxterm\MobaXterm.exe"
+return
+
+#3::
+run, "E:\qq\QQProtect\Bin\QQProtect.exe"
+return
+
+#1::
+run, http://mail.163.com
+return
+
+#q::
+run, "E:\youdao\install\YoudaoNote\RunYNote.exe"
+return
+
+
+
+
